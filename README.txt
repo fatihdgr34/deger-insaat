@@ -1,0 +1,1 @@
+Bu klasör Değer İnşaat Dekor web sitesi test içeriğini içerir.
